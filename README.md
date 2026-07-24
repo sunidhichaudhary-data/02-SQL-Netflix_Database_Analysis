@@ -60,7 +60,7 @@ Netflix-SQL-Data-Analysis/
 ├── Netflix_SQL_Analysis.sql
 │
 ├── images/
-│   ├── er_diagram.png
+│   ├── Netflix_Schema.png
 │
 └── README.md
 ```
@@ -88,7 +88,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 
 # 🗂 Entity Relationship (ER) Diagram
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](images/Netflix_Schema.png)
 
 ---
 
